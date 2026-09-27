@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32689656/README.md)
+[README.md](https://github.com/user-attachments/files/32694194/README.md)
 # The Vita Boost Hub - Digital Business Card
 
 Professional e-business card for Yanira Rios, Health Coach at The Vita Boost Hub.
@@ -10,8 +10,9 @@ Professional e-business card for Yanira Rios, Health Coach at The Vita Boost Hub
 - Real logo embedded in the header (no external image files — everything is baked into `index.html`)
 - Five brand pillars with real photo icons: Nourish, Strengthen, Balance, Grow, Thrive
 - Direct contact links (phone, email, website)
-- Social media integration (Instagram, email, phone) with matching line-icon style
-- Call-to-action buttons: Follow Us (Instagram) and Shop Now
+- Social row: Instagram, Facebook, email, and phone, all matching line-icon style
+- Call-to-action buttons: Shop Now, plus a dedicated "Take Your Wellness Assessment Now" button
+- Compact layout — tightened spacing in the header and between the pillar icons and contact info
 - Responsive design (mobile & desktop), tested at iPhone width
 - Single self-contained file — no external dependencies, no separate image assets to upload
 
@@ -22,7 +23,9 @@ Professional e-business card for Yanira Rios, Health Coach at The Vita Boost Hub
 - **Email:** thevitaboosthub@gmail.com
 - **Visit Website:** https://mypro2col.com/en-us/collections?site=thevitaboosthub
 - **Shop Now:** https://mypro2col.com/en-us/collections/daily-nutrition?site=thevitaboosthub
+- **Wellness Assessment:** https://quiz.mypro2col.com/en-us/Intro?site=thevitaboosthub
 - **Instagram:** https://www.instagram.com/thevitaboost_hub/
+- **Facebook:** https://www.facebook.com/profile.php?id=61594649016586
 
 ## Updating the site
 
